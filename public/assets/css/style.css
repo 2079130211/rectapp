@@ -1,0 +1,9 @@
+.form-select-sm,.form-control{
+padding-bottom: 0.15rem ! important;
+padding-top: 0.15rem ! important;
+}
+
+
+.card{
+  border: 1px solid black !important;
+}
